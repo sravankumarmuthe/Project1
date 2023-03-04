@@ -1,7 +1,9 @@
+/* This Pogram is demo calci */ 
+
 import java.util.Scanner;
 
  public class calculator
-  {
+  i{
     public static void main(String args[])
      {
        float a, b, res;
@@ -55,4 +57,4 @@ import java.util.Scanner;
 																	            System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
-}
+}		
